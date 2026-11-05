@@ -170,3 +170,5 @@ h1 .ac,h2 .ac{background:linear-gradient(var(--a),var(--a)) 0 92%/0 .08em no-rep
 .bt svg{transition:transform .25s}.bt:hover svg{transform:translateX(3px)}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.rv,.hero h1 span{opacity:1!important;transform:none!important;filter:none!important}.ac{background-size:100% .08em!important}}
 @media(max-width:1000px){.hero .hrow[style]{grid-template-columns:1fr!important}.hero .hrow[style]>div:last-child{padding-bottom:40px!important}.hero h1{overflow-wrap:anywhere}}@media(max-width:560px){.hero h1{font-size:30px!important}}
+footer .w{container-type:inline-size}.wm{font-size:13.8cqi!important;white-space:nowrap;overflow:hidden;max-width:100%}
+.wm{padding-bottom:.14em;margin-bottom:8px}
