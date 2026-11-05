@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shonazzzar.github.io/azard-group-site/sitemap.xml
